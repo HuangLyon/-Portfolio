@@ -1,1 +1,1 @@
-It a simple student management system.
+It a simple student information system.
